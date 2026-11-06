@@ -134,19 +134,5 @@ gtkwave dump.vcd
 
 
 
-\## Source Attribution
 
-Based on Day 078 of the 100DaysOfRTL repository:
-
-
-
-https://github.com/Praful-Kesavadas/100DaysOfRTL
-
-
-
-Source commit: `9614aa7b207ff11aa089b0f3277c6a4ee1ef34d6`
-
-
-
-The implementation is based on the referenced source. Review the original repository's licensing terms before redistribution.
 
